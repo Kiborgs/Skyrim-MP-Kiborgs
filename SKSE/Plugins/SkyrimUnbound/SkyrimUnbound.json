@@ -1,0 +1,13 @@
+{
+	"int" : 
+	{
+		"auto open mcm" : 0,
+		"auto open mcm delay" : 2,
+		"autosave" : 1,
+		"equip gear after racemenu" : 1,
+		"keycode" : 28,
+		"mcm on top" : 1,
+		"quick start" : 1,
+		"short intro titles" : 1
+	}
+}

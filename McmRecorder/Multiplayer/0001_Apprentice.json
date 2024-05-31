@@ -1,0 +1,20 @@
+[
+  {
+    "Mod": "Apprentice",
+    "option": "Daggers",
+    "page": "Trained Skills",
+    "toggle": "On"
+  },
+  {
+    "Click": "Reset all starting skills to zero",
+    "Mod": "Apprentice",
+    "page": "Skill Levels",
+    "Side": "Right"
+  },
+  {
+    "Click": "Click here to lock this menu",
+    "Mod": "Apprentice",
+    "page": "Settings",
+    "Side": "Right"
+  }
+]
