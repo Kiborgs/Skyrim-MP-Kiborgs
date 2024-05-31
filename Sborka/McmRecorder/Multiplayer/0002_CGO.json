@@ -1,0 +1,20 @@
+[
+  {
+    "Mod": "CGO",
+    "option": " Hotkey",
+    "page": "Settings",
+    "shortcut": 34
+  },
+  {
+    "Mod": "CGO",
+    "option": " Stationary Speed Boost",
+    "page": "Settings",
+    "slider": 0.0
+  },
+  {
+    "Mod": "CGO",
+    "option": " Power Attacks (NPCs)",
+    "page": "Settings",
+    "toggle": "On"
+  }
+]

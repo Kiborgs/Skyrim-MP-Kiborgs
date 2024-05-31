@@ -1,0 +1,15 @@
+block
+colis
+dmco
+draws
+dscgo
+evfmgo
+hrspos
+hsrdfx
+rtsf
+scar
+tdmh
+tdmlen
+tdmv
+xpmse
+pandora
